@@ -23,15 +23,11 @@ height: 5rem;
     align-items: center;
 }
 .choice:hover {
-  animation: shake 0.5s ease-in-out;
+ 
   background-color: #db221f;
   cursor: pointer;
 }
-@keyframes shake {
-    0% { transform: translateX(-5px); }
-    50% { transform: translateX(5px); }
-    100% { transform: translateX(-5px); }
-  }
+
 .choices {
     display: flex;
     height:180px;
