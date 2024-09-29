@@ -33,8 +33,8 @@ h1 {
     border: 5px solid transparent;
 }
 .choice:hover {
-    background-color: #db221f;
-    border-color: #db221f;
+    background-color: #810f7d;
+    border-color: #810f7d;
     cursor: pointer;
 }
 .choices {
@@ -84,7 +84,7 @@ img {
 @media (min-width: 1025px) {
     /* Hover effect for large screens (Desktop) */
     .choice:hover {
-        background-color: #db221f;
+        background-color: #810f7d;
          /* Adds a more pronounced effect for desktop */
     }
 }
